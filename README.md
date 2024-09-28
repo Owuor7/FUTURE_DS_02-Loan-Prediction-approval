@@ -1,4 +1,6 @@
 Loan Prediction Model
+
+
 Overview
 This project aims to predict the status of loan applications based on various applicant and loan-related features such as Applicant Income, Loan Amount, Credit History, and Education Level. The objective is to determine whether a loan will be approved (1) or denied (0) using machine learning models.
 
